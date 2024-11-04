@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1067514893560",
+    "project_id": "modul3a-4d76d",
+    "storage_bucket": "modul3a-4d76d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067514893560:android:fc85f34ab360515e48d70d",
+        "android_client_info": {
+          "package_name": "com.example.rentalin_id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPllNtxEjmqZ9TL_pgq_fjMdjit7Dwxtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
